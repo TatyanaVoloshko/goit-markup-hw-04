@@ -151,7 +151,6 @@ margin-right: 40px;
 /* section-hero */
 
 .hero {
-    background-color: var(--dark);
     text-align: center;
     padding-top: 192px;
     padding-bottom: 192px;
@@ -159,7 +158,6 @@ margin-right: 40px;
 }
 
 .overlay {
-    height: 603px;
     width: 1440px;
     margin-left: auto;
     margin-right: auto;
@@ -342,7 +340,7 @@ margin-right: 40px;
 
 .team-container {
     padding-top: 32px;
-    padding-bottom: 55px;
+    padding-bottom: 32px;
     padding-right: 16px;
     padding-left: 16px;
 }
